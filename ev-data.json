@@ -1,0 +1,269 @@
+[
+  {
+    "EV Name": "Ford Mustang Mach-E",
+    "Claimed Range(mi)": 312.0,
+    "Battery Size(kwh)": 91.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.43
+  },
+  {
+    "EV Name": "Mercedes-Benz EQE SUV 350",
+    "Claimed Range(mi)": 279.0,
+    "Battery Size(kwh)": 90.6,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.08
+  },
+  {
+    "EV Name": "Peugeot E-3008 Long Range",
+    "Claimed Range(mi)": 435.0,
+    "Battery Size(kwh)": 98.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.44
+  },
+  {
+    "EV Name": "Volkswagen ID.7 Pro",
+    "Claimed Range(mi)": 386.0,
+    "Battery Size(kwh)": 86.0,
+    "Car Type": "Sedan",
+    "Effieciency(mi/kwh)": 4.49
+  },
+  {
+    "EV Name": "BMW i5 M60 xDrive",
+    "Claimed Range(mi)": 256.0,
+    "Battery Size(kwh)": 83.0,
+    "Car Type": "Sedan",
+    "Effieciency(mi/kwh)": 3.08
+  },
+  {
+    "EV Name": "Toyota BZ 5X",
+    "Claimed Range(mi)": 311.0,
+    "Battery Size(kwh)": 80.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.89
+  },
+  {
+    "EV Name": "MG MG4 XPOWER",
+    "Claimed Range(mi)": 239.0,
+    "Battery Size(kwh)": 77.0,
+    "Car Type": "Hatchback",
+    "Effieciency(mi/kwh)": 3.1
+  },
+  {
+    "EV Name": "Volkswagen ID.4 GTX",
+    "Claimed Range(mi)": 322.0,
+    "Battery Size(kwh)": 77.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.18
+  },
+  {
+    "EV Name": "Volkswagen ID.5 GTX",
+    "Claimed Range(mi)": 322.0,
+    "Battery Size(kwh)": 77.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.18
+  },
+  {
+    "EV Name": "Volkswagen ID.3 Pro S",
+    "Claimed Range(mi)": 347.0,
+    "Battery Size(kwh)": 77.0,
+    "Car Type": "Hatchback",
+    "Effieciency(mi/kwh)": 4.5
+  },
+  {
+    "EV Name": "Polestar 2 Long Range Dual Motor",
+    "Claimed Range(mi)": 367.0,
+    "Battery Size(kwh)": 82.0,
+    "Car Type": "Sedan",
+    "Effieciency(mi/kwh)": 4.47
+  },
+  {
+    "EV Name": "Porsche Taycan 4 Cross Turismo",
+    "Claimed Range(mi)": 304.0,
+    "Battery Size(kwh)": 79.2,
+    "Car Type": "Wagon",
+    "Effieciency(mi/kwh)": 3.84
+  },
+  {
+    "EV Name": "BMW i4 eDrive40",
+    "Claimed Range(mi)": 365.0,
+    "Battery Size(kwh)": 81.5,
+    "Car Type": "Sedan",
+    "Effieciency(mi/kwh)": 4.48
+  },
+  {
+    "EV Name": "Porsche Taycan 4S",
+    "Claimed Range(mi)": 318.0,
+    "Battery Size(kwh)": 79.2,
+    "Car Type": "Sedan",
+    "Effieciency(mi/kwh)": 4.01
+  },
+  {
+    "EV Name": "Hyundai IONIQ 6 Long Range",
+    "Claimed Range(mi)": 361.0,
+    "Battery Size(kwh)": 77.4,
+    "Car Type": "Sedan",
+    "Effieciency(mi/kwh)": 4.66
+  },
+  {
+    "EV Name": "Skoda Enyaq Coupe RS",
+    "Claimed Range(mi)": 340.0,
+    "Battery Size(kwh)": 82.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.15
+  },
+  {
+    "EV Name": "Audi Q4 Sportback e-tron 50",
+    "Claimed Range(mi)": 349.0,
+    "Battery Size(kwh)": 82.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.26
+  },
+  {
+    "EV Name": "BMW iX1 xDrive30",
+    "Claimed Range(mi)": 296.0,
+    "Battery Size(kwh)": 64.7,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.57
+  },
+  {
+    "EV Name": "Mercedes-Benz EQE SUV 500 4MATIC",
+    "Claimed Range(mi)": 292.0,
+    "Battery Size(kwh)": 90.6,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.22
+  },
+  {
+    "EV Name": "Tesla Model Y RWD",
+    "Claimed Range(mi)": 283.0,
+    "Battery Size(kwh)": 60.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 4.72
+  },
+
+{
+    "EV Name": "Ford Mustang Mach-E",
+    "Claimed Range(mi)": 295.0,
+    "Battery Size(kwh)": 91.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.21
+  },
+  {
+    "EV Name": "Genesis G80 Electrified",
+    "Claimed Range(mi)": 275.0,
+    "Battery Size(kwh)": 90.0,
+    "Car Type": "SEDAN",
+    "Effieciency(mi/kwh)": 3.06
+  },
+  {
+    "EV Name": "Nissan Ariya e-4orce",
+    "Claimed Range(mi)": 205.0,
+    "Battery Size(kwh)": 87.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 2.36
+  },
+  {
+    "EV Name": "Volkswagen ID.7 Pro S",
+    "Claimed Range(mi)": 325.0,
+    "Battery Size(kwh)": 86.0,
+    "Car Type": "SEDAN",
+    "Effieciency(mi/kwh)": 3.78
+  },
+  {
+    "EV Name": "BYD SEAL RWD",
+    "Claimed Range(mi)": 275.0,
+    "Battery Size(kwh)": 82.5,
+    "Car Type": "SEDAN",
+    "Effieciency(mi/kwh)": 3.33
+  },
+  {
+    "EV Name": "BMW i4",
+    "Claimed Range(mi)": 270.0,
+    "Battery Size(kwh)": 81.3,
+    "Car Type": "SEDAN",
+    "Effieciency(mi/kwh)": 3.32
+  },
+  {
+    "EV Name": "Kia EV6 GT",
+    "Claimed Range(mi)": 270.0,
+    "Battery Size(kwh)": 80.0,
+    "Car Type": "CROSSOVER",
+    "Effieciency(mi/kwh)": 3.38
+  },
+  {
+    "EV Name": "Skoda Elroq vRS",
+    "Claimed Range(mi)": 285.0,
+    "Battery Size(kwh)": 79.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.60
+  },
+  {
+    "EV Name": "Tesla Model Y Performance",
+    "Claimed Range(mi)": 285.0,
+    "Battery Size(kwh)": 79.0,
+    "Car Type": "CROSSOVER",
+    "Effieciency(mi/kwh)": 3.60
+  },
+  {
+    "EV Name": "Tesl Model 3 Performance",
+    "Claimed Range(mi)": 320.0,
+    "Battery Size(kwh)": 79.0,
+    "Car Type": "SEDAN",
+    "Effieciency(mi/kwh)": 4.05
+  },
+  {
+    "EV Name": "Kia EV3 ",
+    "Claimed Range(mi)": 280.0,
+    "Battery Size(kwh)": 78.0,
+    "Car Type": "CROSSOVER",
+    "Effieciency(mi/kwh)": 3.59
+  },
+  {
+    "EV Name": "Nissan Leaf Extended Range 75 KWh",
+    "Claimed Range(mi)": 280.0,
+    "Battery Size(kwh)": 75.0,
+    "Car Type": "HATCHBACK",
+    "Effieciency(mi/kwh)": 3.73
+  },
+  {
+    "EV Name": "MG Cyberstar GT",
+    "Claimed Range(mi)": 245.0,
+    "Battery Size(kwh)": 74.4,
+    "Car Type": "SPORTS",
+    "Effieciency(mi/kwh)": 3.29
+  },
+  {
+    "EV Name": "Lexus RZ 350e",
+    "Claimed Range(mi)": 250.0,
+    "Battery Size(kwh)": 72.0,
+    "Car Type": "CROSSOVER",
+    "Effieciency(mi/kwh)": 3.47
+  },
+  {
+    "EV Name": "Kia Niro EV",
+    "Claimed Range(mi)": 240.0,
+    "Battery Size(kwh)": 64.8,
+    "Car Type": "CROSSOVER",
+    "Effieciency(mi/kwh)": 3.70
+  },
+  {
+    "EV Name": "Renault Megane E-Tech",
+    "Claimed Range(mi)": 225.0,
+    "Battery Size(kwh)": 60.0,
+    "Car Type": "HATCHBACK",
+    "Effieciency(mi/kwh)": 3.48
+  },
+  {
+    "EV Name": "Jeep Recon EV",
+    "Claimed Range(mi)": 275.0,
+    "Battery Size(kwh)": 85.0,
+    "Car Type": "CROSSOVER",
+    "Effieciency(mi/kwh)": 3.47
+  },
+  {
+    "EV Name": "Tesla Model Y Long Range",
+    "Claimed Range(mi)": 330.0,
+    "Battery Size(kwh)": 82.0,
+    "Car Type": "SUV",
+    "Effieciency(mi/kwh)": 3.40
+  },
+  ]
